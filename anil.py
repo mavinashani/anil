@@ -1,3 +1,3 @@
 print('hi hllo')
 print('sanpshort')
-print('buildnow')
+print('buildnow immediate')
