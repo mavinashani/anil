@@ -1,4 +1,1 @@
-print('hl')
-print('hlo hari')
-print('poll')
-print('pooll')
+print('tes')
